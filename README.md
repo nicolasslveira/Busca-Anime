@@ -1,5 +1,4 @@
 🎌 Busca-Anime
-<p align="center"> <img src="https://i.imgur.com/G6mZq1K.png" width="200" alt="anime icon"/> </p>
 
 O Busca-Anime é uma aplicação que permite ao usuário enviar uma imagem de uma cena e descobrir automaticamente de qual anime ela pertence.
 Após identificar o anime, o sistema também retorna uma sinopse completa, tudo de forma rápida e automatizada.
