@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3rem;">🎌 Busca-Anime</h1> <p align="center"> <img src="https://i.imgur.com/G6mZq1K.png" width="200" alt="anime icon"/> </p> <p align="center" style="font-size: 1.25rem;"> O <strong>Busca-Anime</strong> é uma aplicação que identifica a cena de um anime a partir de uma imagem enviada pelo usuário e retorna a sinopse do anime automaticamente. </p>
+<h1 align="center" style="font-size: 3rem;">🎌 Busca-Anime</h1> <p align="center">  </p> <p align="center" style="font-size: 1.25rem;"> O <strong>Busca-Anime</strong> é uma aplicação que identifica a cena de um anime a partir de uma imagem enviada pelo usuário e retorna a sinopse do anime automaticamente. </p>
 <h2 style="font-size: 2.3rem;">✨ Como funciona</h2>
 
 🔐 O usuário realiza login com um token de acesso
