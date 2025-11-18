@@ -45,4 +45,4 @@ Ferramentas & Serviços
 <h2 style="font-size: 2.3rem;">🚧 Status do Projeto</h2>
 
 Atualmente: Em desenvolvimento
-Melhorias e novas funcionalidades serão adicionadas continuamente.
+Melhorias e novas funcionalidades serão adicionadas continuamente..
