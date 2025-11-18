@@ -1,29 +1,25 @@
-🎌 Busca-Anime
+<h1 align="center" style="font-size: 3rem;">🎌 Busca-Anime</h1> <p align="center"> <img src="https://i.imgur.com/G6mZq1K.png" width="200" alt="anime icon"/> </p> <p align="center" style="font-size: 1.25rem;"> O <strong>Busca-Anime</strong> é uma aplicação que identifica a cena de um anime a partir de uma imagem enviada pelo usuário e retorna a sinopse do anime automaticamente. </p>
+<h2 style="font-size: 2.3rem;">✨ Como funciona</h2>
 
-O Busca-Anime é uma aplicação que permite ao usuário enviar uma imagem de uma cena e descobrir automaticamente de qual anime ela pertence.
-Após identificar o anime, o sistema também retorna uma sinopse completa, tudo de forma rápida e automatizada.
+🔐 O usuário realiza login com um token de acesso
 
-✨ Como funciona
+🖼️ Envia uma imagem de uma cena de anime
 
-🔐 O usuário realiza login usando um token de acesso
-
-🖼️ Envia uma imagem de alguma cena de anime
-
-🤖 A imagem é enviada para uma API de reconhecimento de cenas
+🤖 A imagem é processada por uma API de reconhecimento de cenas
 
 🎬 A API retorna:
 
 Nome do anime
 
-Episódio da cena
+Episódio
 
 Tempo aproximado
 
-📚 Com o nome do anime, outra API retorna automaticamente a sinopse
+📚 Outra API busca a sinopse completa
 
-💡 Tudo é exibido de forma clara e objetiva na interface
+📢 O sistema exibe tudo de maneira simples e direta
 
-🛠️ Tecnologias Utilizadas
+<h2 style="font-size: 2.3rem;">🛠️ Tecnologias Utilizadas</h2>
 Frontend
 
 🎨 HTML
@@ -46,7 +42,7 @@ Ferramentas & Serviços
 
 🌐 APIs externas de reconhecimento e dados de anime
 
-🚧 Status do Projeto
+<h2 style="font-size: 2.3rem;">🚧 Status do Projeto</h2>
 
 Atualmente: Em desenvolvimento
-Novas funcionalidades e melhorias estão sendo adicionadas continuamente.
+Melhorias e novas funcionalidades serão adicionadas continuamente.
